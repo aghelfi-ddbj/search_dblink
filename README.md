@@ -8,16 +8,22 @@ observation: WGS, TSA data use only prefix and version, like BPOT01 and IAAA01.<
 
 Example: 
 ```
-MTBKS201
-IAAA01
-PRJDB4182
+cat input_file.txt 
+```
+```
+SAMD00003106
+SAMD00388901
+PRJDB11873
 PRJDB7724
-SAMD00388930
-AB025938
+PRJDB9849
+BPOT01
+PRJDB4182
+SAMD00334872
+MTBKS201
 E-GEAD-284
 IAAA01
-BPOT01
-DRX001133
+DRR047016
+FY261933
 ```
 ### Usage (only ddbjs1):
 In the same directory where file "input_file.txt", copy the command line below: <br>
