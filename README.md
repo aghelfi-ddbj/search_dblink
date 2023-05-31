@@ -32,7 +32,19 @@ sh /home/andreaghelfi/scripts/dblink_ddbj/search_dblink
 ```
 ### Output files HTML format:
 directory name: out_dblink_ddbj <br>
+trace_dblink.html  <br>
+trad_dblink.html <br>
+gea_dblink.html  <br>
+mtb_dblink.html  <br>
 Copy the files with html extension in your local PC, open using a web browser.<br>
+
+Example of trad_dblink output file: <br>
+[html format](https://github.com/aghelfi-ddbj/search_dblink/blob/main/trad_dblink.html) <br>
+[print screen format](https://github.com/aghelfi-ddbj/search_dblink/blob/main/trad_dblink_sample.png) <br>
 
 ### Output files csv format:
 directory name: temp_dblink_ddbj <br>
+all_trace.csv <br>
+all_trad.csv <br>
+gea2dblink.csv <br>
+mtb2dblink.csv <br>
