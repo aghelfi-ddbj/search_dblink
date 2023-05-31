@@ -2,7 +2,7 @@
 Search engine across dblink_ddbj database (psql version)
 
 ### Requirement:
-input file name: input_filename.txt <br>
+input file name: input_file.txt <br>
 format: txt, with one column. Each query in a new line.<br>
 observation: WGS, TSA data use only prefix and version, like BPOT01 and IAAA01.<br>
 
@@ -20,7 +20,7 @@ BPOT01
 DRX001133
 ```
 ### Usage (only ddbjs1):
-In the same directory where file "input_filename.txt", copy the command line below: <br>
+In the same directory where file "input_file.txt", copy the command line below: <br>
 ```
 sh /home/andreaghelfi/scripts/dblink_ddbj/search_dblink
 ```
