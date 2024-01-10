@@ -28,7 +28,7 @@ FY261933
 ### Usage (only ddbjs1):
 In the same directory where file "input_file.txt", copy the command line below: <br>
 ```
-sh /home/andreaghelfi/scripts/dblink_ddbj/search_dblink
+bash /home/andreaghelfi/scripts/dblink_ddbj/search_dblink
 ```
 ### Output files HTML format:
 directory name: out_dblink_ddbj <br>
