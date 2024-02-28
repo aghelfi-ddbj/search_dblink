@@ -19,7 +19,6 @@ PRJDB9849
 BPOT01
 PRJDB4182
 SAMD00334872
-MTBKS201
 E-GEAD-284
 IAAA01
 DRR047016
@@ -35,7 +34,6 @@ directory name: out_dblink_ddbj <br>
 trace_dblink.html  <br>
 trad_dblink.html <br>
 gea_dblink.html  <br>
-mtb_dblink.html  <br>
 Copy the files with html extension in your local PC, open using a web browser.<br>
 
 Example of trad_dblink output file: <br>
@@ -47,4 +45,3 @@ directory name: temp_dblink_ddbj <br>
 all_trace.csv <br>
 all_trad.csv <br>
 gea2dblink.csv <br>
-mtb2dblink.csv <br>
